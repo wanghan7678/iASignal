@@ -1,0 +1,6 @@
+@iASignalApi_HostAddress = http://localhost:5056
+
+GET {{iASignalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
