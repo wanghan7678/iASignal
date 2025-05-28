@@ -9,5 +9,4 @@ The required package:
 - Microsoft.EntityFrameworkCore
 - Microsoft.EntityFrameworkCore.tools
 - Pomelo.EntityFrameworkCore.MySql
-
-- 
+- Microsoft.AspNetCore.Authentication.JwtBearer
